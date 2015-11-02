@@ -10,8 +10,8 @@ Maintained by [New Life Church](http://newlife.global)
   * [Client](#client)
   * [Server](#server)
   * [Database](#data)
-  * [Install](#user-content-install)
-  * [Style Guide](#styleGuide)
+  * [Install](#user-content---install)
+  * [Style Guide](#user-content---style-guide)
   * [Testing](#testing)
 
 ### <a name="thought"></a>(#thought)[thought](https://github.com/churchjs/thought)
@@ -42,7 +42,7 @@ Maintained by [New Life Church](http://newlife.global)
   * The database interface will be accessible within the hapijs application at:
     `server.app.db`.
 
-### [-](#styleguide) Style Guide
+### [-](#style-guide) Style Guide
   * [hapijs styles](https://github.com/hapijs/contrib/blob/master/Style.md)
 
 
