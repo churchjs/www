@@ -6,12 +6,12 @@ restful web api to meet the church's diverse data needs.
 Maintained by [New Life Church](http://newlife.global)
 
 ## Contents
-  * [Planning](#user-content---thought)
-  * [Client](#user-content---client)
-  * [Server](#user-content---server)
+  * [Planning](#user-content--thought)
+  * [Client](#user-content--client)
+  * [Server](#user-content--server)
   * [Database](#user-content--data)
-  * [Install](#install)
-  * [Style Guide](#style-guide)
+  * [Install](#user-content--install)
+  * [Style Guide](#user-content--styleguide)
   * [Testing](#user-content--testing)
 
 ### [](#thought) [thought](https://github.com/churchjs/thought)
@@ -42,11 +42,11 @@ Maintained by [New Life Church](http://newlife.global)
   * The database interface will be accessible within the hapijs application at:
     `server.app.db`.
 
-### [](#style-guide) Style Guide
+### [](#styleguide) Style Guide
   * [hapijs styles](https://github.com/hapijs/contrib/blob/master/Style.md)
 
 
-### Testing
+### [](#testing) Testing
   hapijs testing suite. This testing suite applies linting to code 
   enforcing the style guide requirements.
   * [lab](https://github.com/hapijs/lab)
