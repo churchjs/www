@@ -10,7 +10,7 @@ Maintained by [New Life Church](http://newlife.global)
   * [Client](#client)
   * [Server](#server)
   * [Database](#data)
-  * [Install](#install)
+  * [Install](#user-content-install)
   * [Style Guide](#styleGuide)
   * [Testing](#testing)
 
@@ -42,11 +42,11 @@ Maintained by [New Life Church](http://newlife.global)
   * The database interface will be accessible within the hapijs application at:
     `server.app.db`.
 
-### [-](#styleGuide) Style Guide
+### [-](#styleguide) Style Guide
   * [hapijs styles](https://github.com/hapijs/contrib/blob/master/Style.md)
 
 
-### <a name="testing"></a>Testing
+### <a name="user-content-testing"></a>Testing
   hapijs testing suite. This testing suite applies linting to code 
   enforcing the style guide requirements.
   * [lab](https://github.com/hapijs/lab)
