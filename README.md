@@ -9,10 +9,10 @@ Maintained by [New Life Church](http://newlife.global)
   * [Planning](#user-content---thought)
   * [Client](#user-content---client)
   * [Server](#user-content---server)
-  * [Database](#user-content---data)
-  * [Install](#user-content---install)
-  * [Style Guide](#user-content---style-guide)
-  * [Testing](#user-content---testing)
+  * [Database](#user-content--data)
+  * [Install](#install)
+  * [Style Guide](#style-guide)
+  * [Testing](#user-content--testing)
 
 ### [](#thought) [thought](https://github.com/churchjs/thought)
   * planning repo 
@@ -36,13 +36,13 @@ Maintained by [New Life Church](http://newlife.global)
   * read install instructions on how to configure churchjs/data and churchjs/www 
     work together. 
 
-### [](#install) Install
+### (#install) Install
   * configure the church-www path in `lib/manifest.js` this will cause
     the church-www application to load the sofajs database interface.
   * The database interface will be accessible within the hapijs application at:
     `server.app.db`.
 
-### [](#style-guide) Style Guide
+### (#style-guide) Style Guide
   * [hapijs styles](https://github.com/hapijs/contrib/blob/master/Style.md)
 
 
