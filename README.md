@@ -14,7 +14,7 @@ Maintained by [New Life Church](http://newlife.global)
   * [Style Guide](#styleGuide)
   * [Testing](#testing)
 
-### [-](#thought) [thought](https://github.com/churchjs/thought)
+### <a name="thought"></a>(#thought)[thought](https://github.com/churchjs/thought)
   * planning repo 
 
 ### [-](#server) Server
@@ -46,7 +46,7 @@ Maintained by [New Life Church](http://newlife.global)
   * [hapijs styles](https://github.com/hapijs/contrib/blob/master/Style.md)
 
 
-### [-](#testing) Testing
+### <a name="testing"></a>Testing
   hapijs testing suite. This testing suite applies linting to code 
   enforcing the style guide requirements.
   * [lab](https://github.com/hapijs/lab)
